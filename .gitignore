@@ -6,5 +6,5 @@ LLaMA-Factory/inference.ipynb
 LLaMA-Factory/corpus+onto.jsonl
 LLaMA-Factory/nohup.out
 script.out
-LLaMA-Factory/data/filter_sft.json
+LLaMA-Factory/data/OntoTune_sft.json
 LLaMA-Factory/examples/

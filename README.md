@@ -1,6 +1,6 @@
 
 # OntoTune
-<!-- - [OntoTune: Ontology-Driven Self-training for Aligning Large Language Models](https://arxiv.org/abs/2) -->
+- This is the code of the paper [OntoTune: Ontology-Driven Self-training for Aligning Large Language Models](https://arxiv.org/abs/2502.05478) (WWW2025).
 >In this work, we propose an ontology-driven self-training framework called OntoTune, which aims to align LLMs with ontology through in-context learning, enabling the generation of responses guided by the ontology.
 
 <div align="center">
@@ -9,6 +9,7 @@
 
 ## 🔔 News
 - **`2025-01` OntoTune is accepted by WWW 2025 !**
+- **`2025-02` Our paper is released on arxiv !**
 
 
 ## 🚀 How to start

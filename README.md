@@ -32,7 +32,7 @@ pip install -e ".[torch,metrics]"
 You need to add `model_name_or_path` parameter to yaml file。
 ```bash
 cd LLaMA-Factory
-llamafactory-cli train OntoTune_sft.yaml
+llamafactory-cli train script/OntoTune_sft.yaml
 ```
 
 ## 🤝 Cite:

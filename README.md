@@ -40,18 +40,11 @@ Please consider citing this paper if you find our work useful.
 
 ```bigquery
 
-@inproceedings{OntoTune,
-  author       = {Zhiqiang Liu and
-                  Chengtao Gan and 
-                  Junjie Wang and 
-                  Yichi Zhang and
-                  Zhongpu Bo and
-                  Mengshu Sun and
-                  Huajun Chen and
-                  Wen Zhang},
-  title        = {OntoTune: Ontology-Driven Self-training for Aligning Large Language Models},
-  booktitle    = {{WWW}},
-  year         = {2025}
+@article{OntoTune,
+  title={OntoTune: Ontology-Driven Self-training for Aligning Large Language Models},
+  author={Liu, Zhiqiang and Gan, Chengtao and Wang, Junjie and Zhang, Yichi and Bo, Zhongpu and Sun, Mengshu and Chen, Huajun and Zhang, Wen},
+  journal={arXiv preprint arXiv:2502.05478},
+  year={2025}
 }
 
 ```

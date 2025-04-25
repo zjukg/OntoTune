@@ -40,11 +40,33 @@ Please consider citing this paper if you find our work useful.
 
 ```bigquery
 
-@article{OntoTune,
-  title={OntoTune: Ontology-Driven Self-training for Aligning Large Language Models},
-  author={Liu, Zhiqiang and Gan, Chengtao and Wang, Junjie and Zhang, Yichi and Bo, Zhongpu and Sun, Mengshu and Chen, Huajun and Zhang, Wen},
-  journal={arXiv preprint arXiv:2502.05478},
-  year={2025}
+@inproceedings{DBLP:conf/www/LiuGWZBSC025,
+  author       = {Zhiqiang Liu and
+                  Chengtao Gan and
+                  Junjie Wang and
+                  Yichi Zhang and
+                  Zhongpu Bo and
+                  Mengshu Sun and
+                  Huajun Chen and
+                  Wen Zhang},
+  editor       = {Guodong Long and
+                  Michale Blumestein and
+                  Yi Chang and
+                  Liane Lewin{-}Eytan and
+                  Zi Helen Huang and
+                  Elad Yom{-}Tov},
+  title        = {OntoTune: Ontology-Driven Self-training for Aligning Large Language
+                  Models},
+  booktitle    = {Proceedings of the {ACM} on Web Conference 2025, {WWW} 2025, Sydney,
+                  NSW, Australia, 28 April 2025- 2 May 2025},
+  pages        = {119--133},
+  publisher    = {{ACM}},
+  year         = {2025},
+  url          = {https://doi.org/10.1145/3696410.3714816},
+  doi          = {10.1145/3696410.3714816},
+  timestamp    = {Wed, 23 Apr 2025 16:35:50 +0200},
+  biburl       = {https://dblp.org/rec/conf/www/LiuGWZBSC025.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
 
 ```

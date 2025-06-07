@@ -8,8 +8,14 @@
 </div>
 
 ## 🔔 News
+<p align="left">
+  <a href="https://arxiv.org/abs/2502.05478">📄arXiv</a> •
+  <a href="https://huggingface.co/zjukg/OntoTune-sft-Llama3-8B">🤗 Huggingface</a>
+</p>
+
 - **`2025-01` OntoTune is accepted by WWW 2025 !**
 - **`2025-02` Our paper is released on arxiv !**
+- **`2025-06` Our model is released on huggingface !**
 
 
 ## 🚀 How to start
